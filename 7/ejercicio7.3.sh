@@ -1,5 +1,6 @@
 #!/bin/bash
 # Grupo 7 (Comision 21)
+# Alumnos: Matias Scalella / Juan San Pedro / Brian Santaran / Juan José Silva / Jorge Ruiz Diaz 
 # Ejercicio 7.3
 echo "Ingrese 5 numeros para calcular el promedio."
 read -p "Ingrese el primer numero: " num1
